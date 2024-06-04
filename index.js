@@ -1,4 +1,6 @@
 // @ts-nocheck
+
+// CODE FONCTIONNEL MAIS MOIN OPTIMAL
 // window.addEventListener("mousemove", (e) => {
 //   cursor.style.top = e.y + "px";
 //   cursor.style.left = e.x + "px";
